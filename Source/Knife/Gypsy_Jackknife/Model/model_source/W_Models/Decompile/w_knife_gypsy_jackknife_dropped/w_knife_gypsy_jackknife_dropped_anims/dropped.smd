@@ -1,0 +1,11 @@
+// Created by Crowbar 0.71
+version 1
+nodes
+  0 "weapon_hand_R" -1
+  1 "weapon_holster_center" 0
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 1.038647 0.000000 0.000000 -1.570796
+    1 0.000000 -0.000002 0.017074 0.000001 0.000000 0.000000
+end

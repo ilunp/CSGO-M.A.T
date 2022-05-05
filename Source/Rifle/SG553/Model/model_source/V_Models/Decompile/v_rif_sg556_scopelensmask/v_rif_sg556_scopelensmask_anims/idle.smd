@@ -1,0 +1,9 @@
+// Created by Crowbar 0.71
+version 1
+nodes
+  0 "v_weapon.sg556_Parent" -1
+end
+skeleton
+  time 0
+    0 0.000000 -3.445313 -0.020859 1.570792 0.000003 -0.000003
+end

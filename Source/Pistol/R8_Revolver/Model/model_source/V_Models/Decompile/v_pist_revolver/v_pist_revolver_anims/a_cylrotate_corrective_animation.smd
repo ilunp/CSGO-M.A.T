@@ -1,0 +1,71 @@
+// Created by Crowbar 0.71
+version 1
+nodes
+  0 "cam_driver" -1
+  1 "v_weapon.deagle_parent" -1
+  2 "v_weapon.release" 1
+  3 "v_weapon.crane" 1
+  4 "v_weapon.cylinder" 3
+  5 "v_weapon.ejector" 4
+  6 "v_weapon.trigger" 1
+  7 "v_weapon.stattrack" 1
+  8 "v_weapon.uid" 1
+  9 "v_weapon.hammer" 1
+  10 "v_weapon.cylbullet4" 3
+  11 "v_weapon.cylbullet1" 3
+  12 "v_weapon.cylbullet5" 3
+  13 "v_weapon.cylbullet7" 3
+  14 "v_weapon.cylbullet3" 3
+  15 "v_weapon.cylbullet2" 3
+  16 "v_weapon.cylbullet8" 3
+  17 "v_weapon.cylbullet6" 3
+  18 "v_weapon.loader_handle" -1
+  19 "v_weapon.loader_holder" 18
+  20 "v_weapon.v_weapon" -1
+  21 "v_weapon.Bip01_L_UpperArm" 20
+  22 "v_weapon.Bip01_L_Forearm" 21
+  23 "v_weapon.Bip01_L_Hand" 22
+  24 "v_weapon.Bip01_L_Finger0" 23
+  25 "v_weapon.Bip01_L_Finger01" 24
+  26 "v_weapon.Bip01_L_Finger02" 25
+  27 "v_weapon.Bip01_L_Finger1" 23
+  28 "v_weapon.Bip01_L_Finger11" 27
+  29 "v_weapon.Bip01_L_Finger12" 28
+  30 "v_weapon.Bip01_L_Finger2" 23
+  31 "v_weapon.Bip01_L_Finger21" 30
+  32 "v_weapon.Bip01_L_Finger22" 31
+  33 "v_weapon.Bip01_L_Finger3" 23
+  34 "v_weapon.Bip01_L_Finger31" 33
+  35 "v_weapon.Bip01_L_Finger32" 34
+  36 "v_weapon.Bip01_L_Finger4" 23
+  37 "v_weapon.Bip01_L_Finger41" 36
+  38 "v_weapon.Bip01_L_Finger42" 37
+  39 "v_weapon.Bip01_L_ForeTwist" 21
+  40 "v_weapon.Bip01_R_UpperArm" 20
+  41 "v_weapon.Bip01_R_Forearm" 40
+  42 "v_weapon.Bip01_R_Hand" 41
+  43 "v_weapon.Bip01_R_Finger0" 42
+  44 "v_weapon.Bip01_R_Finger01" 43
+  45 "v_weapon.Bip01_R_Finger02" 44
+  46 "v_weapon.Bip01_R_Finger1" 42
+  47 "v_weapon.Bip01_R_Finger11" 46
+  48 "v_weapon.Bip01_R_Finger12" 47
+  49 "v_weapon.Bip01_R_Finger2" 42
+  50 "v_weapon.Bip01_R_Finger21" 49
+  51 "v_weapon.Bip01_R_Finger22" 50
+  52 "v_weapon.Bip01_R_Finger3" 42
+  53 "v_weapon.Bip01_R_Finger31" 52
+  54 "v_weapon.Bip01_R_Finger32" 53
+  55 "v_weapon.Bip01_R_Finger4" 42
+  56 "v_weapon.Bip01_R_Finger41" 55
+  57 "v_weapon.Bip01_R_Finger42" 56
+  58 "v_weapon.Bip01_R_ForeTwist" 40
+  59 "v_weapon.Bip01_Prop1" 20
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796
+    1 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796
+    18 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796
+    20 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796
+end
