@@ -6,10 +6,14 @@ CSGO 3D Model And Texture
 [Name] 
     └ /Model 
     |   └ /model_source
-       └ /V_Models
-       └ /W_Models
+    |   |   └ /V_Models
+    |   |   └ /W_Models
     |   └ [Type]_[Name]_Model.smd
     └ /Texture
+    |   └ /Default
+    |   |   └ [Type]_[Name]_Texture.vmt
+    |   |   └ [Type]_[Name]_Texture.vtf
+    |   |   └ [Type]_[Name]_exponent_Texture.vtf
 ```
 
 | **Type**     | **Name**          |         |

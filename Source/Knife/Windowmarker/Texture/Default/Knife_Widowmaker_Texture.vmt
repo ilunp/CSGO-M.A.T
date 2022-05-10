@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture"             "models/weapons/v_models/knife_widowmaker/knife_widowmaker"
+	"$phongalbedotint"         "1"
+	"$phongdisablehalflambert" "1"
+	"$phongexponenttexture"    "models/weapons/v_models/knife_widowmaker/knife_widowmaker_exponent"
+	"$phong"                   "1"
+	"$phongboost"              "5"
+	"$phongfresnelranges"      "[.8 .8 1]"
+	"$basemapalphaphongmask"   "1"
+	"$envmap"                  "env_cubemap"
+	"$envmapfresnel"           "1"
+}

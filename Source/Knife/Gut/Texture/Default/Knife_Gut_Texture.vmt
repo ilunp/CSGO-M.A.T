@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\knife_gut\knife_gut"
+	//"$phongexponent" 30
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$phongexponenttexture" "models\weapons\v_models\knife_gut\knife_gut_exponent"
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongfresnelranges" "[.2 0.5 1]"
+
+	"$basemapalphaphongmask" "1"
+
+	
+	"$envmap" "env_cubemap"
+	//"$envmapmask"  "models\weapons\v_models\knife_gut\knife_gut_mask" 
+	"$envmapfresnel" "1"
+	//"$envmaptint" 		"[0.2 0.3 0.5]"		
+	"$envMapFresnelMinMaxExp" "[.5 1 2]" 
+	
+	
+	
+}
+

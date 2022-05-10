@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\knife_m9_bay\knife_m9_bay"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$phongexponenttexture" "models\weapons\v_models\knife_m9_bay\knife_m9_bay_exponent"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.2 0.5 1]"
+	
+	 
+	"$basemapalphaphongmask" "1"
+
+	
+	"$envmap" "env_cubemap"
+	//"$envmapmask" "models\weapons\v_models\knife_m9_bay\knife_m9_bay_env"
+	//"$envMapFresnelMinMaxExp" "[.5 .1 .12]" 
+	"$envmapfresnel" "1"
+	//"$baseAlphaEnvMapMaskMinMaxExp" "[1 1 3]" 
+	"$envmaptint" 		"[.2 .2 .2]"
+}
+
+

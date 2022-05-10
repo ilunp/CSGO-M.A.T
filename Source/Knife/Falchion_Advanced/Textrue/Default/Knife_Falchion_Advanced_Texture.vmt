@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\knife_falchion_advanced\knife_falchion_advanced"
+	
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$phongexponenttexture" "models\weapons\v_models\knife_falchion_advanced\knife_falchion_advanced_exponent"
+	"$phong" "1"
+	"$phongboost" "13"
+	"$phongfresnelranges" "[.8 .8 1]"
+	
+
+	
+	 
+	"$basemapalphaphongmask" "1"
+
+	
+	"$envmap" "env_cubemap"
+ 
+	"$envmapfresnel" "1"
+	
+	"$envmaptint" 		"[.2 .2 .2]"
+}
+
+

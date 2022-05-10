@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture"             "models/weapons/v_models/knife_canis/knife_canis"
+	"$phongexponenttexture"    "models/weapons/v_models/knife_canis/knife_canis_exponent"
+	"$phong"                   "1"
+	"$phongalbedoboost"        "12"
+	"$phongfresnelranges"      "[.7 .7 1]"
+	"$basemapalphaphongmask"   "1"
+	"$phongalbedotint"         "1"
+	"$phongdisablehalflambert" "1"
+	"$envmap"                  "env_cubemap"
+	"$basealphaenvmapmask"     "1"
+	"$envmapfresnel"           "1"
+	"$envmaptint"              "[ 0.5 0.5 0.55 ]"
+}
